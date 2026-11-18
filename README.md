@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 # 🚀 Open Source Contributions
 
 ![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-Contributor-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- https://github.com/NVIDIA/TensorRT-LLM/pulls?q=is%3Apr+is%3Amerged+author%3A%40JWHer
